@@ -1,0 +1,1 @@
+s="New work is started"
